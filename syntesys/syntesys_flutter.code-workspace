@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		// "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+		"workbench.editor.enablePreview": true,
+		"guides.enabled": false,
+		"workbench.colorTheme": "Hackers Haze",
+		"previewServer.browsers": ["chrome", "firefox"],
+		// "previewServer.ignoreDefaultBroswer": true,
+		"previewServer.proxy": "localhost:4200",
+		"dart.flutterSdkPaths": ["c:\\bin\\flutter\\bin"],
+		"gitlens.keymap": "alternate",
+		"gitlens.advanced.messages": {
+			"suppressCommitHasNoPreviousCommitWarning": false,
+			"suppressCommitNotFoundWarning": false,
+			"suppressFileNotUnderSourceControlWarning": false,
+			"suppressGitVersionWarning": false,
+			"suppressLineUncommittedWarning": false,
+			"suppressNoRepositoryWarning": false,
+			"suppressResultsExplorerNotice": false,
+			"suppressShowKeyBindingsNotice": true
+		},
+		"git.enableSmartCommit": true,
+		"git.autofetch": true,
+		"gitlens.historyExplorer.enabled": true,
+		"workbench.startupEditor": "newUntitledFile",
+		// "previewServer.port": 8080,
+		// "previewServer.ui": {
+		//     "port": 3001,
+		//     "weinrePort": 8081
+		// }
+	}
+}

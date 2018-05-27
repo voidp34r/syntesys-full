@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "351618407390",
+    "firebase_url": "https://synt3sys.firebaseio.com",
+    "project_id": "synt3sys",
+    "storage_bucket": "synt3sys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351618407390:android:6d9cc8e0b0886415",
+        "android_client_info": {
+          "package_name": "com.syntesys.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351618407390-mlk670ddvv9lks78hfecg6d8lpct0b7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzIoZSH8oMJrISr8ooLLUXhZ6sk80NLv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351618407390:android:8a51b9aecc621310",
+        "android_client_info": {
+          "package_name": "me.syntesys.android.voidp34r"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351618407390-c8v18c9qskibr43bsrtf70cr6mu34nqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.syntesys.android.voidp34r",
+            "certificate_hash": "eccbbb9449d2a093cad75e3eb2872d5024ccabb6"
+          }
+        },
+        {
+          "client_id": "351618407390-mlk670ddvv9lks78hfecg6d8lpct0b7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzIoZSH8oMJrISr8ooLLUXhZ6sk80NLv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351618407390-mlk670ddvv9lks78hfecg6d8lpct0b7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351618407390:android:54089a006eb0e002",
+        "android_client_info": {
+          "package_name": "me.syntesys.syntesys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351618407390-mlk670ddvv9lks78hfecg6d8lpct0b7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzIoZSH8oMJrISr8ooLLUXhZ6sk80NLv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
